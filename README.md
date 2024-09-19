@@ -1,6 +1,4 @@
 # aboutme
-About Aisha Aman
-
 Hi, welcome to Github! Here you can find the projects I have done since I started in the field of AI.
 
 Let me tell you about myself. I found my passion for statistics during my Bachelor in Business, where I had the opportunity to build my foundations in probability, statistics and econometrics. 
